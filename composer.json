@@ -1,5 +1,5 @@
 {
-    "name": "daem0ndev/laravel-spark",
+    "name": "hamleet/laravel-spark",
     "description": "Laravel Spark provides a starter scaffolding for Laravel SaaS applications.",
     "keywords": ["laravel", "stripe", "billing", "scaffolding"],
     "license": "MIT",
